@@ -1,1 +1,0 @@
-[image](http://image.com)
